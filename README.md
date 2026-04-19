@@ -4,7 +4,7 @@ I’m [**Alex**](https://www.linkedin.com/in/alex-nakagama-1b43b233b/), a softwa
 
 **These days I’m focused on:**
 - Python
-- LangChain
+- Go
 - FastAPI
 - Building thoughtful projects
 
