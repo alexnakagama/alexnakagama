@@ -15,4 +15,5 @@ I’m [**Alex**](https://www.linkedin.com/in/alex-nakagama-1b43b233b/), a softwa
 📌 Linkedin:  https://www.linkedin.com/in/alex-nakagama-1b43b233b/
 
 **Outside of coding**
+<br>
 I like listening to rock music, playing video games and practicing table tennis.
