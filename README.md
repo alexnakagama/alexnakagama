@@ -8,11 +8,11 @@ I’m [**Alex**](https://www.linkedin.com/in/alex-nakagama-1b43b233b/), a softwa
 - FastAPI
 - Building thoughtful projects
 
-**Contact me:**
+#### Let's connect!
 <br>
-📌 Email: alexnakagama4@gmail.com
+Email: alexnakagama4@gmail.com
 <br>
-📌 Linkedin:  https://www.linkedin.com/in/alex-nakagama-1b43b233b/
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/alex-nakagama-1b43b233b/)
 
 **Outside of coding:**
 <br>
