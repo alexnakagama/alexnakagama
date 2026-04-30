@@ -9,10 +9,8 @@ I’m [**Alex**](https://www.linkedin.com/in/alex-nakagama-1b43b233b/), a softwa
 - Building thoughtful projects
 
 #### Let's connect!
-<br>
-Email: alexnakagama4@gmail.com
-<br>
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/alex-nakagama-1b43b233b/)
+Email: alexnakagama4@gmail.com
 
 **Outside of coding:**
 <br>
