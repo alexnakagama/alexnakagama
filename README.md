@@ -6,7 +6,7 @@ I'm [**Alex**](https://www.linkedin.com/in/alex-nakagama-1b43b233b/), a software
 - Go · Gin · PostgreSQL · Docker
 - Python · FastAPI
 
-Outside of programming, I follow science, play video games, listen to rock music and practice table tennis.
+Outside of programming, I enjoy reading - especially distopian novels -, following science, playing video games, listening to rock music and practicing table tennis.
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/alex-nakagama-1b43b233b/)
