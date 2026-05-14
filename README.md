@@ -10,5 +10,5 @@ Outside of programming, I enjoy reading - especially distopian novels -, followi
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/alex-nakagama-1b43b233b/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:alexnakagama4@gmail.com)
 <br>
-
-<img align="right" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" alt="cool cats with sunglasses">   
+<br>
+<img align="left" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" alt="cool cats with sunglasses">   
