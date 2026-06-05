@@ -2,7 +2,7 @@
 
 I'm [**Alex**](https://www.linkedin.com/in/alex-nakagama-1b43b233b/), a software developer from Argentina 🇦🇷 focused on backend development with Go and Python.
 
-These days I’m working mainly with backend technologies, building APIs and services using Go with Gin, PostgreSQL, and Docker, while also developing Python applications with FastAPI.
+These days I’m working mainly with backend technologies, building APIs and services using Go, PostgreSQL, and Docker, while also developing Python applications with FastAPI.
 
 New challenge: Learning about **C++**.
 
