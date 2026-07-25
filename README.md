@@ -6,7 +6,7 @@ These days I’m working mainly with backend technologies, building APIs and ser
 
 New challenge: Learning **C**.
 
-Outside of programming, I enjoy reading - especially distopian novels -, following science, listening to rock music and practicing table tennis.
+Outside of programming, I enjoy reading, following science, listening to rock music and practicing table tennis.
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/alex-nakagama-1b43b233b/)
