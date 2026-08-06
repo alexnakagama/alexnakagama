@@ -4,8 +4,6 @@ I'm [**Alex**](https://www.linkedin.com/in/alex-nakagama-1b43b233b/), a software
 
 These days I’m working mainly with backend technologies, building APIs and services using Go, PostgreSQL, and Docker, while also developing Python applications with FastAPI.
 
-New challenge: Learning **C**.
-
 Outside of programming, I enjoy reading, following science, listening to rock music and practicing table tennis.
 
 #### Let's connect!
