@@ -4,7 +4,7 @@ I'm [**Alex**](https://www.linkedin.com/in/alex-nakagama-1b43b233b/), a software
 
 I enjoy building software, making my developer workflow better, understanding how things work under the hood, and exploring new technologies.
 
-Outside of programming, I enjoy reading, following science and listening to rock music.
+Outside of programming, I enjoy reading, following science and listening all kinds of music.
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/alex-nakagama-1b43b233b/)
